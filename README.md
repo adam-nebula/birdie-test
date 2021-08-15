@@ -6,4 +6,6 @@ Birdie Task
 
 - I deployed the backend to an Azure Functions resource. The frontend I deployed as a SPA to Azure Blob Storage.
 
+See the deployed version here: https://birdietest.z33.web.core.windows.net/
+
 If I think of anything else in the meantime I will update this page :)
