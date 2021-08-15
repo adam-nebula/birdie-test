@@ -1,0 +1,4 @@
+export default {
+    FETCH_EVENTS_TYPE: "FETCH_EVENTS_TYPE",
+    FETCH_EVENTS: "FETCH_EVENTS"
+}

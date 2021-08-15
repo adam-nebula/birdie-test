@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`recipient table row renders 1`] = `
+<tr
+  className="MuiTableRow-root"
+  role={null}
+>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root MuiTableCell-alignRight"
+  >
+    some information
+  </td>
+  <td
+    aria-sort={null}
+    className="MuiTableCell-root MuiTableCell-alignRight"
+  >
+    May 1st 2019, 8:26:06 am
+  </td>
+</tr>
+`;
