@@ -9,6 +9,7 @@ See the deployed version here: https://birdietest.z33.web.core.windows.net/
 
 **If I had more time**
 
+- Pagination on the table
 - Filtering on caregiver_ids to provide users with more granularity into who was delivering the medication. Assign caregiver_ids to randomly generated names to simulate what a real user would see. 
 - Search box to allow user to find their recipient and filter on results accordingly (currently the recipient id is just hardcoded)
 - Faciliate sorting on the columns.
